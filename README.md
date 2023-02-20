@@ -1,5 +1,5 @@
 # a simple shell rebuild :
-This is a simple UNIX command interpreter written as part of the Alx software engineering course.
+This is a simple UNIX command interpreter written as part of the Alx software engineering course. For more information about Alx, visit (https://www.alxafrica.com/).
 
 ### Environment :
 Upon invocation, this shell receives and copies the environment of the parent process in which it was executed. This environment is an array of *name-value* strings describing variables in the format *NAME=VALUE*. A few key environmental variables are:
@@ -29,8 +29,3 @@ A colon-separated list of directories in which the shell looks for commands. A n
 * Omar Elshaer <[Omar Elshaer](https://github.com/omarelshaer2)>
 * Mohammed Ezzat <[mea800](https://github.com/mea800)>
 
-## Acknowledgements :
-
-our simple shell emulates basic functionality of the **sh** shell. This README borrows form the Linux man pages [sh(1)](https://linux.die.net/man/1/sh) and [dash(1)](https://linux.die.net/man/1/dash).
-
-This project was written as part of the curriculum for ALX Africa. ALX Africa SE course is a full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. For more information, visit (https://www.alxafrica.com/).
